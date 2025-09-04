@@ -44,6 +44,9 @@ Sebelum memilih alat, pahami pendekatannya. Bagian ini menjelaskan beberapa meto
 - **[🏗️ Project-Based Learning (PjBL)](./metodologi-pembelajaran/project-based-learning.md)**
   - **Penjelasan**: Siswa belajar dengan mengerjakan proyek-proyek otentik yang bermakna, menjadikan proyek sebagai kendaraan belajar.
 
+- **[🔎 Problem-Based Learning (PBL)](./metodologi-pembelajaran/problem-based-learning.md)**
+  - **Penjelasan**: Berpusat pada proses pemecahan masalah yang kompleks dan terbuka, melatih pemikiran kritis dan kemandirian.
+
 - **[🤝 Collaborative Learning](./metodologi-pembelajaran/collaborative-learning.md)**
   - **Penjelasan**: Mendorong siswa untuk bekerja sama, sebuah keterampilan kunci di dunia teknologi, termasuk teknik *Pair Programming*.
 
