@@ -1,60 +1,44 @@
-# 👶 Kurikulum ScratchJr: Petualangan Koding Pertama
+# 👶 Kurikulum ScratchJr: Bercerita Digital untuk Usia Dini
 
-**ScratchJr** memperkenalkan konsep koding fundamental kepada anak usia 5-7 tahun melalui pembuatan cerita dan game interaktif. Kurikulum ini dirancang untuk membangun keterampilan secara progresif dalam 6 sesi.
+**ScratchJr** adalah bahasa pemrograman visual pengantar yang memungkinkan anak-anak (usia 5-7) membuat cerita dan game interaktif mereka sendiri. Ini adalah langkah pertama yang fantastis ke dunia coding sebelum mereka bahkan bisa membaca dengan lancar.
 
----
-
-### 🧠 **Konsep Inti yang Dipelajari:**
-- **Sequencing**: Membuat urutan perintah yang logis.
-- **Events**: Memahami pemicu dan aksi (misalnya, "ketika bendera hijau diklik").
-- **Loops**: Menggunakan blok "Repeat" untuk efisiensi.
-- **Ekspresi Kreatif**: Merancang karakter dan cerita sendiri.
+![ScratchJr Logo](https://www.scratchjr.org/images/logo.png)
 
 ---
 
-### 🗺️ **Peta Kurikulum (6 Sesi Belajar)**
+### 🎯 **Informasi Kunci untuk Pengajar (PAUD/TK/SD Awal)**
 
-#### **Sesi 1: Halo, ScratchJr!**
-- **Tujuan**: Mengenal antarmuka dan membuat karakter bergerak.
-- **Aktivitas**:
-    1.  **Eksplorasi**: Mengenal *Stage*, *Sprite* (karakter), dan *Block Palette*.
-    2.  **Perintah Pertama**: Menggunakan blok **Gerak** (Maju, Mundur, Atas, Bawah).
-    3.  **Proyek Mini**: Membuat kucing (sprite default) berjalan melintasi layar saat bendera hijau diklik.
-
-#### **Sesi 2: Karakter & Latar Belakang**
-- **Tujuan**: Menambah dan memodifikasi karakter serta latar.
-- **Aktivitas**:
-    1.  **Menambah Aktor**: Memasukkan karakter baru dari perpustakaan.
-    2.  **Editor Lukis**: Menggambar karakter atau memodifikasi yang sudah ada.
-    3.  **Proyek Mini**: Membuat adegan di taman dengan dua karakter yang bergerak secara independen.
-
-#### **Sesi 3: Bercerita Digital**
-- **Tujuan**: Menggunakan blok suara, teks, dan halaman untuk bercerita.
-- **Aktivitas**:
-    1.  **Blok "Say"**: Membuat karakter "berbicara" dengan balon teks.
-    2.  **Multi-Halaman**: Membuat cerita yang berlanjut ke adegan (halaman) berikutnya.
-    3.  **Proyek Mini**: Membuat komik strip sederhana dengan dialog antar karakter.
-
-#### **Sesi 4: Suara dan Kecepatan**
-- **Tujuan**: Mengontrol kecepatan karakter dan menambahkan efek suara.
-- **Aktivitas**:
-    1.  **Blok "Speed"**: Mengatur kecepatan karakter (lambat, normal, cepat).
-    2.  **Rekam Suara**: Merekam suara sendiri untuk digunakan dalam proyek.
-    3.  **Proyek Mini**: Membuat game balapan sederhana di mana satu karakter lebih cepat dari yang lain.
-
-#### **Sesi 5: Keajaiban Perulangan (Loops)**
-- **Tujuan**: Memahami dan menggunakan blok "Repeat" untuk efisiensi.
-- **Aktivitas**:
-    1.  **Konsep Loop**: Menjelaskan mengapa perulangan itu penting (misalnya, untuk membuat karakter menari).
-    2.  **Implementasi**: Memasukkan beberapa blok perintah ke dalam blok "Repeat".
-    3.  **Proyek Mini**: Membuat karakter melompat atau menari berulang kali.
-
-#### **Sesi 6: Proyek Karyaku!**
-- **Tujuan**: Mengaplikasikan semua yang telah dipelajari untuk membuat proyek orisinal.
-- **Aktivitas**:
-    1.  **Brainstorming**: Merancang ide untuk game, cerita, atau animasi.
-    2.  **Berkarya**: Siswa bekerja secara mandiri atau kelompok untuk mewujudkan idenya.
-    3.  **Pameran Karya**: Siswa mempresentasikan hasil karyanya kepada teman-teman.
+- **Tujuan Utama**: Mengembangkan pemikiran komputasi (*computational thinking*) sejak dini. Fokusnya bukan pada sintaks, melainkan pada **logika**, **urutan**, dan **pemecahan masalah** secara visual.
+- **Filosofi**: Anak-anak belajar paling baik saat mereka secara aktif merancang, membuat, dan mengekspresikan diri. ScratchJr adalah taman bermain digital untuk itu.
+- **Keterampilan yang Dibangun**: Selain logika, ScratchJr membantu mengembangkan keterampilan sekuensial, literasi (jika menggunakan teks), dan matematika (menghitung langkah, memahami koordinat sederhana).
 
 ---
-*Sumber kurikulum ini diadaptasi dari panduan resmi ScratchJr dan praktik terbaik pendidikan usia dini.*
+
+### 👩‍🏫 **Tips untuk Pengajar**
+
+1.  **Mulai dengan Cerita, Bukan Alat**: Daripada menjelaskan "Ini blok maju, ini blok belok", mulailah dengan sebuah cerita. "Bagaimana cara kita membuat kucing ini berjalan ke pohon?" Ini membuat pembelajaran lebih kontekstual.
+2.  **Gunakan Aktivitas Unplugged**: Ajak anak-anak untuk memerankan sebuah algoritma. Misalnya, satu anak menjadi "programmer" dan memberikan instruksi (Maju, Lompat) kepada anak lain yang menjadi "robot".
+3.  **Integrasikan dengan Pelajaran Lain**: Gunakan ScratchJr untuk menceritakan kembali dongeng yang sudah dikenal, membuat kartu ucapan digital, atau menjelaskan siklus hidup kupu-kupu. Ini menjadikannya alat lintas kurikulum.
+4.  **Biarkan Mereka Bereksplorasi**: Kesalahan adalah bagian dari pembelajaran. Biarkan anak-anak mencoba blok yang berbeda dan melihat apa yang terjadi. Proses eksplorasi ini sangat berharga.
+
+---
+
+### 🧪 **Link untuk Mencoba/Testing**
+
+- **Coba Langsung di Web**: ScratchJr kini memiliki versi web tidak resmi yang berfungsi baik di browser, bagus untuk dicoba dengan cepat di kelas tanpa instalasi tablet.
+  - [**ScratchJr for Web**](https://jfo8000.github.io/ScratchJr-Desktop/)
+- **Unduh Aplikasi Resmi**: Untuk pengalaman terbaik, unduh aplikasi resmi di tablet.
+  - [**Download ScratchJr**](https://www.scratchjr.org/)
+
+---
+
+### 🗺️ **Peta Kurikulum (Contoh Proyek per Konsep)**
+
+| Konsep Kunci | Contoh Proyek Sederhana |
+| :--- | :--- |
+| **Events (Pemicu)** | Membuat karakter melompat saat disentuh (`Start on Tap` block). |
+| **Sequencing (Urutan)** | Membuat mobil berjalan melintasi kota dan berhenti di lampu merah. |
+| **Looks & Sounds** | Membuat karakter memperkenalkan diri dengan balon teks (`Say` block) dan suara. |
+| **Motion & Speed** | Membuat balapan antara kura-kura (lambat) dan kelinci (cepat). |
+| **Loops (Perulangan)** | Membuat karakter menari dengan mengulang gerakan lompat dan putar. |
+| **Multiple Pages** | Membuat cerita pendek yang berpindah dari satu adegan (halaman) ke adegan berikutnya. |

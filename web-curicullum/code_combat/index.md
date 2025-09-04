@@ -1,40 +1,40 @@
-# ⚔️ Kurikulum CodeCombat: Belajar Kode dengan Bermain RPG
+# ⚔️ Kurikulum CodeCombat: Belajar Kode Nyata Melalui Petualangan RPG
 
-**CodeCombat** mengubah belajar coding menjadi sebuah petualangan. Siswa memainkan game RPG di mana mereka harus menulis kode **Python** atau **JavaScript** sungguhan untuk menggerakkan pahlawan dan menyelesaikan level.
+**CodeCombat** adalah platform pembelajaran berbasis game di mana siswa menulis kode **Python** atau **JavaScript** sungguhan untuk mengontrol pahlawan dalam sebuah game petualangan (RPG). Ini sangat efektif untuk siswa yang termotivasi oleh game dan kompetisi.
 
 ![CodeCombat Logo](https://codecombat.com/images/pages/base/logo_square_256.png)
 
 ---
 
-### 🗺️ **Jalur Belajar (Campaigns)**
+### 🎯 **Informasi Kunci untuk Pengajar (SMP & SMA)**
 
-Kurikulum CodeCombat disusun dalam bentuk "Dunia" atau kampanye game yang harus ditaklukkan siswa secara berurutan.
-
-#### **Dunia 1: Introduction to Computer Science (CS1)**
-- **Lokasi**: Kithgard Dungeon.
-- **Fokus**: Pengenalan sintaks paling dasar, loop, dan variabel.
-- **Misi**: Membimbing pahlawan keluar dari penjara bawah tanah, menghindari jebakan, dan melawan ogre.
-- **Konsep**: Sintaks dasar, argumen, string, loop `while`, variabel, `if/else`.
-
-#### **Dunia 2: Computer Science 2 (CS2)**
-- **Lokasi**: Backwoods Forest.
-- **Fokus**: Fungsi, event, dan logika yang lebih kompleks.
-- **Misi**: Mengalahkan pasukan musuh yang lebih besar dan melindungi desa.
-- **Konsep**: Fungsi, parameter, event handling, logika boolean, array/list.
-
-#### **Dunia 3: Web Development 1 & 2**
-- **Fokus**: Beralih dari game ke pembuatan halaman web interaktif.
-- **Misi**: Membangun halaman web dari awal menggunakan HTML, CSS, dan JavaScript untuk menampilkan pencapaian pahlawan.
-- **Konsep**: Tag HTML, properti CSS, DOM (Document Object Model), event listener di JS.
-
-#### **Dunia 4: Game Development 1 & 2**
-- **Fokus**: Mendesain dan membangun game sendiri.
-- **Misi**: Siswa tidak lagi hanya bermain, tetapi menciptakan level dan aturan game mereka sendiri yang bisa dibagikan.
-- **Konsep**: Koordinat game, input pemain, fisika sederhana, spawning musuh, tujuan game.
+- **Tujuan Utama**: Mengajarkan sintaks bahasa pemrograman nyata (bukan blok) dalam lingkungan yang menarik dan memotivasi. Siswa belajar konsep ilmu komputer sambil menyelesaikan misi dalam game.
+- **Pembelajaran Kontekstual**: Siswa melihat hubungan langsung antara kode yang mereka tulis dan hasil yang terjadi di layar. Jika pahlawan tidak bergerak, itu karena ada yang salah dengan kodenya.
+- **Fokus pada Pemecahan Masalah**: Setiap level adalah puzzle yang membutuhkan strategi dan kode yang benar untuk diselesaikan. Ini melatih keterampilan *debugging* dan ketekunan.
 
 ---
 
-### 🔗 **Referensi & Kursus**
+### 👩‍🏫 **Tips untuk Pengajar**
 
-- **Sumber Rujukan**: [CodeCombat Courses for Teachers](https://codecombat.com/teachers/courses)
-- **Link Kursus**: [Mulai Bermain dan Belajar](https://codecombat.com/play)
+1.  **Pilih Bahasa di Awal**: Tentukan apakah kelas Anda akan fokus pada Python (direkomendasikan untuk pemula) atau JavaScript (berguna untuk pengembangan web). Konsistensi membantu siswa.
+2.  **Gunakan Mode Arena (Multiplayer)**: Setelah siswa mempelajari beberapa konsep dasar, perkenalkan mereka pada level Arena. Di sini, mereka memprogram pahlawan mereka untuk bertarung melawan pahlawan siswa lain. Ini sangat memotivasi dan mendorong pemikiran strategis.
+3.  **Jadikan Kesalahan sebagai Momen Belajar**: Editor kode CodeCombat memberikan petunjuk saat ada kesalahan. Ajarkan siswa untuk membaca petunjuk ini dengan saksama. Ini adalah keterampilan *debugging* yang otentik.
+4.  **Hubungkan dengan Proyek Kreatif**: Setelah menyelesaikan beberapa dunia (misalnya, CS1 dan CS2), tantang siswa untuk menggunakan konsep yang sama untuk membuat game mereka sendiri di unit Game Development. Ini menguji pemahaman mereka secara lebih dalam.
+
+---
+
+### 🧪 **Link untuk Mencoba/Testing**
+
+- **Mainkan Level Awal Gratis**: CodeCombat memungkinkan siapa saja untuk memainkan level-level awal secara gratis. Ini adalah cara terbaik untuk merasakan alur permainan dan melihat bagaimana kode mengontrol pahlawan.
+  - [**Mulai Bermain CodeCombat**](https://codecombat.com/play)
+
+---
+
+### 🗺️ **Jalur Belajar (Campaigns)**
+
+| Dunia (Campaign) | Target Pembelajaran 🎯 |
+| :--- | :--- |
+| **1. Computer Science 1 (CS1)** | **Dasar-dasar Sintaks**. Belajar sintaks dasar, argumen, string, loop `while`, variabel, dan `if/else` dalam sebuah petualangan di penjara bawah tanah. |
+| **2. Computer Science 2 (CS2)** | **Fungsi & Logika Lanjutan**. Belajar mendefinisikan fungsi, menangani event, dan menggunakan logika boolean yang lebih kompleks. |
+| **3. Web Development** | **Membangun Situs Web**. Beralih dari game ke pembuatan halaman web dengan HTML, CSS, dan JavaScript. |
+| **4. Game Development** | **Membuat Game Sendiri**. Menggunakan konsep yang telah dipelajari untuk merancang dan membuat level game sendiri yang bisa dibagikan. |

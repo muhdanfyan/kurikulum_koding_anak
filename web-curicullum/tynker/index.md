@@ -1,42 +1,42 @@
-# 🚀 Kurikulum Tynker: Dari Blok ke Python
+# 🚀 Kurikulum Tynker: Jalur Terstruktur dari Blok ke Python
 
-**Tynker** adalah platform pembelajaran coding yang sangat luas, menawarkan jalur belajar terstruktur yang membawa anak dari level pemula tanpa pengalaman hingga ke pemrograman teks seperti JavaScript dan Python.
+**Tynker** adalah platform pembelajaran coding yang sangat komprehensif, menawarkan jalur belajar yang terstruktur rapi untuk siswa dari usia 5 hingga 14+. Keunggulannya terletak pada kurikulum yang kaya dan beragam, termasuk modding Minecraft, robotika, dan pengembangan game.
 
 ![Tynker Logo](https://assets-global.website-files.com/5e39355239544f7a6757988b/5e39355239544f395a5798c8_Tynker-Logo-Blue.svg)
 
 ---
 
-### 🗺️ **Jalur Belajar (Learning Path)**
+### 🎯 **Informasi Kunci untuk Pengajar (SD & SMP)**
 
-Tynker memiliki jalur belajar utama yang terbagi berdasarkan usia dan pengalaman, dari blok visual hingga kode teks.
-
-#### **Tahap 1: Coding Blok Visual (Usia 5-11)**
-- **Fokus**: Membangun fondasi logika dan pemecahan masalah tanpa perlu mengetik kode.
-- **Kursus Populer**:
-    - **Space Cadet & Dragon Spells**: Pengenalan konsep dasar seperti sekuens dan loop.
-    - **Game Design**: Membuat game platformer dan petualangan sendiri.
-    - **Minecraft Modding**: Mendesain skin, item, dan mob sendiri untuk Minecraft.
-- **Konsep**: Algoritma, debugging, loop, kondisional, variabel.
-
-#### **Tahap 2: Transisi ke Kode Teks (Usia 12-14)**
-- **Fokus**: Menjembatani pemahaman dari blok ke sintaks JavaScript dan Python.
-- **Kursus Populer**:
-    - **JavaScript 1**: Belajar dasar-dasar JS sambil membuat game dan aplikasi.
-    - **Python 1**: Pengenalan sintaks Python melalui proyek-proyek seru.
-    - **Augmented Reality (AR)**: Membuat filter wajah dan objek 3D dengan JavaScript.
-- **Konsep**: Sintaks, fungsi, array, objek, dan event handling.
-
-#### **Tahap 3: Pemrograman Teks Tingkat Lanjut (Usia 14+)**
-- **Fokus**: Menguasai bahasa pemrograman populer untuk aplikasi dunia nyata.
-- **Kursus Populer**:
-    - **Python 2**: Mendalami struktur data dan algoritma.
-    - **Web Development**: Belajar HTML dan CSS untuk membangun situs web.
-    - **Data Science**: Pengenalan analisis dan visualisasi data dengan Python.
-- **Konsep**: Struktur data, algoritma, API, machine learning, pengembangan web.
+- **Tujuan Utama**: Menyediakan kurikulum coding K-8 yang lengkap dan selaras dengan standar pendidikan (seperti CSTA). Tynker sangat baik untuk sekolah yang ingin mengadopsi program coding yang terstandardisasi.
+- **Jalur Belajar Terpandu**: Tynker menawarkan "Coding Path" yang adaptif. Siswa dapat mengambil tes penempatan untuk memulai di level yang paling sesuai untuk mereka.
+- **Keterlibatan Tinggi**: Dengan kursus berbasis minat seperti Minecraft dan robotika, Tynker sangat efektif dalam menjaga motivasi siswa, terutama bagi mereka yang gemar bermain game.
 
 ---
 
-### 🔗 **Referensi & Kursus**
+### 👩‍🏫 **Tips untuk Pengajar**
 
-- **Sumber Rujukan**: [Tynker Courses Overview](https://www.tynker.com/parents/courses)
-- **Link Kursus**: [Mulai Belajar di Tynker](https://www.tynker.com/dashboard/student/#/dashboard/courses)
+1.  **Gunakan Rencana Pelajaran Bawaan**: Tynker menyediakan rencana pelajaran (lesson plans) yang sangat detail untuk setiap kursus, lengkap dengan solusi, konsep yang dibahas, dan pertanyaan diskusi. Ini sangat menghemat waktu persiapan Anda.
+2.  **Manfaatkan Modding Minecraft**: Jika kelas Anda menyukai Minecraft, ini adalah "pintu masuk" yang luar biasa. Siswa belajar konsep coding dengan tujuan yang sangat jelas: memodifikasi game favorit mereka. Ini sangat memotivasi.
+3.  **Transisi Bertahap ke Teks**: Saat siswa siap, Tynker memudahkan transisi dari blok ke JavaScript dan Python. Gunakan fitur ini untuk menunjukkan kepada siswa bagaimana blok yang mereka kenal terlihat seperti kode "nyata".
+4.  **Asesmen Otomatis**: Sebagian besar kursus memiliki penilaian dan pelacakan kemajuan otomatis, yang memudahkan guru untuk mengelola kelas yang besar dan memantau kinerja setiap siswa.
+
+---
+
+### 🧪 **Link untuk Mencoba/Testing**
+
+- **Coba Gratis (Hour of Code)**: Tynker menyediakan banyak aktivitas gratis sebagai bagian dari Hour of Code. Ini adalah cara terbaik untuk mencoba antarmuka dan jenis puzzle yang ditawarkan.
+  - [**Tynker Hour of Code**](https://www.tynker.com/hour-of-code)
+- **Jelajahi Proyek Komunitas**: Lihat apa yang telah dibuat oleh siswa lain untuk mendapatkan inspirasi bagi proyek kelas Anda.
+  - [**Tynker Community Projects**](https://www.tynker.com/community/projects)
+
+---
+
+### 🗺️ **Jalur Belajar (Contoh)**
+
+| Tahap | Target Usia | Bahasa/Format | Contoh Kursus & Konsep Kunci |
+| :--- | :--- | :--- | :--- |
+| **1. Pra-Koding** | 5-7 | Blok Ikon | **Space Cadet, Dragon Spells**: Belajar logika dasar, sekuens, dan pengenalan pola tanpa teks. |
+| **2. Coding Blok** | 8-11 | Blok Visual | **Glitch in Time, Game Design 101**: Belajar loop, kondisional, fungsi, dan variabel melalui pembuatan game. |
+| **3. Transisi ke Teks** | 11-13 | Blok & Teks | **Python 1, JavaScript 1**: Memecahkan masalah dengan sintaks dasar Python/JS, dengan bantuan blok jika diperlukan. |
+| **4. Coding Teks** | 13+ | Python, JS | **Python 2, Web Dev**: Mendalami struktur data, membangun website dengan HTML/CSS/JS, dan konsep AI. |

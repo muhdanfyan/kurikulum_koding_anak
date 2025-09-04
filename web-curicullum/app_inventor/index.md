@@ -1,46 +1,42 @@
-# 📱 Kurikulum MIT App Inventor: Buat Aplikasi Android Sendiri
+# 📱 Kurikulum MIT App Inventor: Mendesain dan Membangun Aplikasi Android
 
-**MIT App Inventor** adalah platform pemrograman visual berbasis blok yang memungkinkan siapa saja membuat aplikasi Android yang berfungsi penuh. Fokusnya adalah belajar melalui pembuatan proyek nyata.
+**MIT App Inventor** adalah platform pemrograman visual yang memungkinkan siapa saja, bahkan tanpa pengalaman coding, untuk membuat aplikasi Android yang berfungsi penuh. Ini adalah alat yang luar biasa untuk mengajarkan desain, logika, dan dampak sosial dari teknologi.
 
 ![App Inventor Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MIT_App_Inventor_logo.svg/1200px-MIT_App_Inventor_logo.svg.png)
 
 ---
 
-### 🗺️ **Jalur Belajar Berbasis Proyek**
+### 🎯 **Informasi Kunci untuk Pengajar (SMP & SMA)**
 
-Belajar App Inventor paling efektif dengan mengikuti tutorial terpandu, dari yang sederhana hingga kompleks.
-
-#### **Tahap 1: Tutorial Pemula (1-2 Jam)**
-- **Fokus**: Mengenal *Designer View* (untuk tampilan) dan *Blocks View* (untuk logika), serta komponen dasar.
-- **Proyek Tutorial**:
-    - **Hello Purr**: Aplikasi paling dasar, membuat gambar kucing mengeluarkan suara saat disentuh.
-    - **Talk To Me**: Menggunakan komponen Text-to-Speech untuk membuat aplikasi berbicara.
-    - **Magic 8-Ball**: Menggunakan sensor akselerometer untuk memberi jawaban acak saat ponsel digoyangkan.
-
-#### **Tahap 2: Tutorial Menengah (Games & Drawing)**
-- **Fokus**: Bekerja dengan *Canvas*, *Sprite*, dan *Timer* untuk membuat game dan aplikasi interaktif.
-- **Proyek Tutorial**:
-    - **Mole Mash (Pukul Tikus Tanah)**: Game sederhana untuk belajar tentang event, skor (variabel), dan timer.
-    - **Digital Doodle (Corat-coret Digital)**: Aplikasi menggambar sederhana untuk memahami event sentuhan pada canvas.
-
-#### **Tahap 3: Tutorial Lanjutan (Data & API)**
-- **Fokus**: Menyimpan data, menggunakan sensor, dan terhubung ke layanan web.
-- **Proyek Tutorial**:
-    - **My Quiz App**: Membuat aplikasi kuis yang menyimpan pertanyaan dan jawaban (menggunakan List).
-    - **TinyDB Tutorials**: Belajar menyimpan data secara permanen di perangkat pengguna.
-    - **API & Web**: Membuat aplikasi yang mengambil data dari internet (misalnya, aplikasi cuaca).
-
-#### **Komponen Inti untuk Dipelajari**
-- **User Interface**: Button, Label, TextBox, ImageView, Slider.
-- **Layout**: Horizontal/Vertical Arrangement untuk menata komponen.
-- **Media**: Sound, Player, Camera, TextToSpeech.
-- **Drawing & Animation**: Canvas, Ball, ImageSprite.
-- **Sensors**: AccelerometerSensor, LocationSensor (GPS).
-- **Storage**: TinyDB (database lokal).
+- **Tujuan Utama**: Memberdayakan siswa sebagai kreator, bukan hanya konsumen teknologi. Mereka belajar proses desain aplikasi dari ide hingga produk jadi yang bisa diinstal di ponsel.
+- **Pembelajaran Berbasis Proyek**: App Inventor paling baik diajarkan melalui proyek. Siswa belajar konsep baru karena mereka membutuhkannya untuk menambahkan fitur ke aplikasi mereka.
+- **Koneksi ke Dunia Nyata**: Siswa dapat membuat aplikasi yang benar-benar berguna atau menyenangkan, seperti aplikasi untuk membantu komunitas lokal, game, atau alat bantu belajar. Ini membuat pembelajaran sangat relevan.
 
 ---
 
-### 🔗 **Referensi & Kursus**
+### 👩‍🏫 **Tips untuk Pengajar**
 
-- **Sumber Rujukan**: [MIT App Inventor Tutorials](https://appinventor.mit.edu/explore/ai2/tutorials.html)
-- **Link Kursus**: [Mulai Membuat Aplikasi](https://appinventor.mit.edu/explore/)
+1.  **Mulai dengan Desain di Kertas**: Sebelum menyentuh komputer, minta siswa untuk merancang antarmuka aplikasi mereka di atas kertas. Ini membantu mereka berpikir tentang pengalaman pengguna (*User Experience*) terlebih dahulu.
+2.  **Gunakan "AI Companion" untuk Pengujian Langsung**: Fitur pengujian langsung (live testing) dengan aplikasi AI Companion adalah keajaiban. Siswa dapat melihat perubahan pada aplikasi mereka secara real-time di ponsel mereka. Pastikan untuk menyiapkan ini di kelas.
+3.  **Adakan "App Challenge" atau "Pameran Aplikasi"**: Di akhir semester, selenggarakan acara di mana siswa mendemonstrasikan aplikasi yang telah mereka buat. Undang kelas lain atau bahkan orang tua untuk memberikan suara pada aplikasi favorit mereka.
+4.  **Ajarkan Konsep Inkremental**: Jangan mencoba mengajarkan semua komponen sekaligus. Mulailah dengan aplikasi sederhana (misalnya, tombol dan suara), lalu secara bertahap tambahkan komponen baru (gambar, sensor, dll.) di proyek-proyek berikutnya.
+
+---
+
+### 🧪 **Link untuk Mencoba/Testing**
+
+- **Mulai Membuat Aplikasi Baru**: Link ini akan membawa Anda langsung ke editor App Inventor untuk memulai proyek baru. Anda memerlukan akun Google untuk login.
+  - [**Create a New App**](https://appinventor.mit.edu/)
+- **Tutorial untuk Pemula**: Halaman ini berisi daftar tutorial terpandu yang sangat baik untuk pemula, lengkap dengan video dan instruksi tertulis.
+  - [**Beginner Tutorials**](https://appinventor.mit.edu/explore/ai2/tutorials)
+
+---
+
+### 🗺️ **Jalur Belajar Berbasis Proyek**
+
+| Tahap | Contoh Proyek Tutorial | Konsep Kunci yang Dipelajari 🎯 |
+| :--- | :--- | :--- |
+| **1. Pemula** | **Hello Purr, Talk To Me**: Membuat aplikasi paling dasar dengan tombol, gambar, dan suara. | **Events** (when Button.Click), **Components** (Button, Sound), **Text-to-Speech**. |
+| **2. Menengah** | **Mole Mash, Paint Pot**: Membuat game sederhana dan aplikasi menggambar. | **Canvas**, **Sprites** (Ball, ImageSprite), **Timer**, **Variables** (untuk skor), **Event Handling** (when Canvas.Touched). |
+| **3. Lanjutan** | **My Quiz App, TinyDB**: Membuat aplikasi yang menggunakan dan menyimpan data. | **Lists** (untuk menyimpan pertanyaan/jawaban), **Procedures** (fungsi), **TinyDB** (database lokal). |
+| **4. Ahli** | **Apps with Sensors, APIs**: Membuat aplikasi yang berinteraksi dengan dunia luar. | **LocationSensor** (GPS), **AccelerometerSensor**, **Web** component (untuk mengambil data dari internet). |
