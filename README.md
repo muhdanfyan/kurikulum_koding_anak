@@ -1,15 +1,18 @@
-# 🚀 Kurikulum Koding Anak: Panduan untuk Pengajar Hebat
+<p align="center">
+  <img src="./assets/sampul.png" alt="Kurikulum Koding Anak" width="500"/>
+</p>
 
-Selamat datang di pusat sumber daya kurikulum coding untuk anak dan remaja! Repositori ini dirancang untuk membantu para pengajar, orang tua, dan mentor dalam memilih dan menerapkan platform pembelajaran pemrograman yang paling sesuai untuk siswa dari tingkat SD, SMP, hingga SMA.
+<h1 align="center">Panduan Mengajarkan Pemrograman untuk Anak & Remaja</h1>
 
-Setiap panduan di dalamnya telah disempurnakan untuk memberikan tidak hanya kurikulum, tetapi juga tips praktis bagi pengajar dan link untuk mencoba platform secara langsung.
+<p align="center">
+Selamat datang di pusat sumber daya kurikulum coding! Repositori ini adalah panduan lengkap untuk para pengajar, orang tua, dan mentor dalam memilih dan menerapkan platform pembelajaran yang paling sesuai untuk siswa dari tingkat SD, SMP, hingga SMA.
+</p>
 
 ---
 
-## ✍️ Penulis Kurikulum
+### ✍️ **Disusun Oleh**
 
-Kurikulum dan panduan ini disusun dan dikurasi oleh:
-
+Kurikulum dan panduan ini dikurasi oleh:
 **Muhdan Fyan Syah Sofian, S.Kom**
 
 - **Founder & Pimpinan Pondok Informatika**
@@ -19,13 +22,15 @@ Kurikulum dan panduan ini disusun dan dikurasi oleh:
 
 ---
 
-## 📂 Struktur Repositori
+## 🚀 Memulai: Tiga Pilar Pembelajaran
 
-Repositori ini terbagi menjadi tiga bagian utama:
+Repositori ini dibangun di atas tiga pilar utama untuk memberikan panduan yang komprehensif.
 
-1.  **`metodologi-pembelajaran/`**: Berisi pengantar berbagai pendekatan pedagogis untuk mengajarkan coding secara efektif.
-2.  **`roadmap-code-org/`**: Berisi panduan mendalam untuk kurikulum terstruktur yang ditawarkan oleh **Code.org**.
-3.  **`web-curicullum/`**: Berisi panduan untuk berbagai platform coding populer lainnya, masing-masing dengan kekuatan dan fokusnya sendiri.
+| Pilar | Deskripsi | Link Cepat |
+| :--- | :--- | :--- |
+| 🧠 **Metodologi** | Pahami "cara" mengajarkan coding secara efektif. Pelajari berbagai pendekatan pedagogis sebelum memilih alat. | [Lihat Metodologi](#-indeks-panduan-metodologi-pembelajaran) |
+| 📘 **Kurikulum Code.org** | Jelajahi kurikulum terstruktur dan berjenjang dari Code.org, salah satu platform pendidikan CS terpopuler. | [Lihat Kurikulum Code.org](#-indeks-panduan-kurikulum-codeorg) |
+| 🌐 **Platform Alternatif** | Temukan berbagai platform coding populer lainnya, masing-masing dengan kekuatan dan fokusnya sendiri. | [Lihat Platform Lainnya](#-indeks-panduan-platform-coding-populer-lainnya) |
 
 ---
 
@@ -89,4 +94,4 @@ Berikut adalah panduan untuk berbagai platform alternatif, masing-masing menawar
 
 ---
 
-Selamat mengajar dan menginspirasi generasi kreator berikutnya! ✨
+<p align="center">✨ Selamat mengajar dan menginspirasi generasi kreator berikutnya! ✨</p>
