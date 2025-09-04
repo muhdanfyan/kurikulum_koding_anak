@@ -21,10 +21,32 @@ Kurikulum dan panduan ini disusun dan dikurasi oleh:
 
 ## 📂 Struktur Repositori
 
-Repositori ini terbagi menjadi dua bagian utama:
+Repositori ini terbagi menjadi tiga bagian utama:
 
-1.  **`roadmap-code-org/`**: Berisi panduan mendalam untuk kurikulum terstruktur yang ditawarkan oleh **Code.org**, salah satu platform pendidikan ilmu komputer paling populer di dunia.
-2.  **`web-curicullum/`**: Berisi panduan untuk berbagai platform coding populer lainnya, masing-masing dengan kekuatan dan fokusnya sendiri, mulai dari blok visual hingga pemrograman teks.
+1.  **`metodologi-pembelajaran/`**: Berisi pengantar berbagai pendekatan pedagogis untuk mengajarkan coding secara efektif.
+2.  **`roadmap-code-org/`**: Berisi panduan mendalam untuk kurikulum terstruktur yang ditawarkan oleh **Code.org**.
+3.  **`web-curicullum/`**: Berisi panduan untuk berbagai platform coding populer lainnya, masing-masing dengan kekuatan dan fokusnya sendiri.
+
+---
+
+## 🧠 Indeks Panduan: Metodologi Pembelajaran
+
+Sebelum memilih alat, pahami pendekatannya. Bagian ini menjelaskan beberapa metodologi pengajaran yang paling efektif untuk coding.
+
+- **[🎮 Game-Based Learning](./metodologi-pembelajaran/game-based-learning.md)**
+  - **Penjelasan**: Menggunakan elemen game untuk memotivasi siswa dan memberikan konteks yang jelas untuk belajar coding.
+
+- **[🏗️ Project-Based Learning (PjBL)](./metodologi-pembelajaran/project-based-learning.md)**
+  - **Penjelasan**: Siswa belajar dengan mengerjakan proyek-proyek otentik yang bermakna, menjadikan proyek sebagai kendaraan belajar.
+
+- **[🤝 Collaborative Learning](./metodologi-pembelajaran/collaborative-learning.md)**
+  - **Penjelasan**: Mendorong siswa untuk bekerja sama, sebuah keterampilan kunci di dunia teknologi, termasuk teknik *Pair Programming*.
+
+- **[🤔 Inquiry-Based Learning](./metodologi-pembelajaran/inquiry-based-learning.md)**
+  - **Penjelasan**: Menempatkan rasa ingin tahu siswa sebagai pusat pembelajaran, mendorong mereka untuk bereksperimen dan menemukan solusi sendiri.
+
+- **[🏆 Mastery-Based Learning](./metodologi-pembelajaran/mastery-based-learning.md)**
+  - **Penjelasan**: Memastikan siswa benar-benar menguasai sebuah konsep sebelum melanjutkan ke konsep berikutnya, membangun fondasi yang kokoh.
 
 ---
 
