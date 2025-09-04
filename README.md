@@ -15,7 +15,7 @@ Selamat datang di pusat sumber daya kurikulum coding! Repositori ini adalah pand
 Kurikulum dan panduan ini disusun dan dikurasi oleh:
 **Muhdan Fyan Syah Sofian, S.Kom**
 
-Dengan pengalaman lebih dari 10 tahun yang memadukan pendidikan Al-Quran dan pendidikan teknologi informasi, beliau berupaya menyusun kurikulum yang tidak hanya relevan secara teknis, tetapi juga memperhatikan aspek perkembangan psikologis dan nilai.
+Dengan pengalaman lebih dari 10 tahun di dunia pendidikan Al-Quran dan pendidikan teknologi informasi, beliau berupaya menyusun kurikulum yang tidak hanya relevan secara teknis.
 
 - **Pendidikan**:
   - S1 Teknik Informatika, Universitas Dipanegara Makassar (2006-2010)
