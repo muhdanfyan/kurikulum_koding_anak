@@ -6,6 +6,19 @@ Setiap panduan di dalamnya telah disempurnakan untuk memberikan tidak hanya kuri
 
 ---
 
+## ✍️ Penulis Kurikulum
+
+Kurikulum dan panduan ini disusun dan dikurasi oleh:
+
+**Muhdan Fyan Syah Sofian, S.Kom**
+
+- **Founder & Pimpinan Pondok Informatika**
+- **Website**: [pondokinformatika.id](https://pondokinformatika.id)
+
+*(Yayasan Pendidikan Pondok Informatika)*
+
+---
+
 ## 📂 Struktur Repositori
 
 Repositori ini terbagi menjadi dua bagian utama:
